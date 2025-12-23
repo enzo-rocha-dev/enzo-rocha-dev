@@ -11,8 +11,9 @@
 
 ### 🚀 Sobre mim
 - 🎓 Estudante da **USP Ribeirão Preto**
-- 📊 Diretor na **Neuron DS&AI**, entidade de Data Science e Inteligência Artificial
-- 💡 Apaixonado por **tecnologia, inovação e projetos de impacto**
+- 💡 Apaixonado por **tecnologia, inovação e projetos de impacto** 
+- 📊 Membro do conselho da **Neuron DS&AI**, entidade de Data Science e Inteligência Artificial da USP
+- 🌐 Forte envolvimento com **projetos de impacto social** 
 - 🤝 Aberto a colaborações em projetos de **Data Science, IA e SaaS**
 
 ---
@@ -30,29 +31,19 @@
 
 ---
 
-### 📚 Principais Repositórios
-<div align="center">
-  <a href="https://github.com/enzo-rocha-dev/neuron-daily">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzo-rocha-dev&repo=neuron-daily&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/enzo-rocha-dev/incentiva-data">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzo-rocha-dev&repo=incentiva-data&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
+### 📚 Principais Projetos
+
+| Projeto         | Descrição                                                                 | Tecnologias                                   |
+|-----------------|---------------------------------------------------------------------------|-----------------------------------------------|
+| [Incentiva Data](https://github.com/enzo-rocha-dev/incentiva-data)| Plataforma que conecta empresas e Organizações da Sociedade Civil (OSCs) para doações direcionadas.|[![My Skills](https://skillicons.dev/icons?i=py,java,html,css)](https://skillicons.dev) |
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,py,mysql,java,c,cpp,html,css,notion" />
+  </a>
 </p>
 
 ---
