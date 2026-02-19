@@ -5,7 +5,7 @@
 
 ---
 
-<h2 align="center">Estudante de Matemática Aplicada a Negócios e entusiasta de Data Science, IA e Tecnologia.</h2>
+<h2 align="center">Estudante de Ciência da Computação na USP e entusiasta de Data Science, IA e Tecnologia.</h2>
 
 ---
 
