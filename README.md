@@ -1,56 +1,83 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
   <h1>Olá, eu sou o Enzo Rocha!</h1>
+
+  <p>
+    Estudante de Ciência da Computação na USP e entusiasta de Data Science, IA, Tecnologia e Inovação.
+  </p>
 </div>
 
 ---
 
-<h2 align="center">Estudante de Ciência da Computação na USP e entusiasta de Data Science, IA e Tecnologia.</h2>
+## 👤 Sobre mim
 
----
-
-### 🚀 Sobre mim
 - 🎓 Estudante da **USP Ribeirão Preto**
-- 💡 Apaixonado por **tecnologia, inovação e projetos de impacto** 
+- 💡 Interessado em desenvolvimento de soluções utilizando tecnologia, dados e inteligência artificial
+- 🌐 Experiência em projetos acadêmicos, sociais e de inovação
+
+
+## 💼 Experiência
+
 - 📊 Membro do conselho da **Neuron DS&AI**, entidade de Data Science e Inteligência Artificial da USP
-- 🌐 Forte envolvimento com **projetos de impacto social** 
-- 🤝 Aberto a colaborações em projetos de **Data Science, IA e SaaS**
+- 🐙 Diretor de P&D da **OctoBit Jr**, empresa júnior do curso de Ciência da Computação da USP-RP
+- 📚 Assistente de Pesquisa no **LEPES - USP** (Laboratório de Estudos e Pesquisa em Economia Social)
+
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="http://www.github.com/enzo-rocha-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=enzo-rocha-dev&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enzo-rocha-dev's GitHub stats" />
-  </a>
-  <a href="https://github.com/enzo-rocha-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-rocha-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-rocha-dev&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-rocha-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
----
-
-### 📚 Principais Projetos
-
-| Projeto         | Descrição                                                                 | Tecnologias                                   |
-|-----------------|---------------------------------------------------------------------------|-----------------------------------------------|
-| [Incentiva Data](https://github.com/enzo-rocha-dev/incentiva-data)| Plataforma que conecta empresas e Organizações da Sociedade Civil (OSCs) para doações direcionadas.|[![My Skills](https://skillicons.dev/icons?i=py,java,html,css)](https://skillicons.dev) |
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,py,mysql,java,c,cpp,html,css,notion" />
-  </a>
-</p>
+## 🚀 Projetos
+
+### Projetos principais
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Simula Prazo](https://github.com/enzo-rocha-dev/simula-prazo) | Aplicação desenvolvida para simulação e análise de prazos, auxiliando no planejamento e organização de processos de pedidos de produtos. | Python, lógica de programação, manipulação de dados |
+
+
+### Projetos acadêmicos
+
+| Projeto | Descrição | Tecnologias | Disciplina |
+|---|---|---|---|
+| [Agendamento de eventos com restrição](https://github.com/enzo-rocha-dev/agendamento-de-eventos-com-restricao) | Sistema para gerenciamento de agendamento de eventos considerando regras e restrições de disponibilidade. | Prolog, LISP, Ruby, Python (spaCy, Scikit-learn, PySwip) | Linguagens e Paradigmas de Programação |
+| [Project Library Design Patterns](https://github.com/enzo-rocha-dev/project-library-design_patterns) | Implementação de uma biblioteca utilizando padrões de projeto para melhorar organização, reutilização e manutenção do código. | Java, Design Patterns, Programação Orientada a Objetos | Programação Orientada a Objetos (POO) |
+
 
 ---
 
-### 🌐 Conecte-se comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/enzoeliasrocha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+## 🛠️ Linguagens, Ferramentas e Tecnologias de Interesse
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,git,aws,mysql,figma,notion" />
+
+</div>
+
+
+---
+
+## 🌐 Conexão
+
+<div align="center">
+
+🤝 Aberto a colaborações em projetos de impacto.
+
+<br>
+
+<a href="https://www.linkedin.com/in/enzoeliasrocha/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
