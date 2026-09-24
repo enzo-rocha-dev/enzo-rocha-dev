@@ -31,8 +31,8 @@
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-rocha-dev&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-rocha-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-rocha-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+-->
 </div>
 
 
