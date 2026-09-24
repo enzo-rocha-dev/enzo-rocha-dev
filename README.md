@@ -3,7 +3,7 @@
   <h1>Olá, eu sou o Enzo Rocha!</h1>
 
   <p>
-    Estudante de Ciência da Computação na USP e entusiasta de Data Science, IA, Tecnologia e Inovação.
+    Estudante de Ciência da Computação na USP e entusiasta de Tecnologia, Inovação e Educação.
   </p>
 </div>
 
