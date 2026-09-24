@@ -18,9 +18,9 @@
 
 ## 💼 Experiência
 
-- 📊 Membro do conselho da **Neuron DS&AI**, entidade de Data Science e Inteligência Artificial da USP
-- 🐙 Diretor de P&D da **OctoBit Jr**, empresa júnior do curso de Ciência da Computação da USP-RP
 - 📚 Assistente de Pesquisa no **LEPES - USP** (Laboratório de Estudos e Pesquisa em Economia Social)
+- 📊 Membro do conselho da **Neuron DS&AI**, entidade de Data Science e Inteligência Artificial da USP
+- 🐙 Diretor de Planejamento Estratétigo da **OctoBit Jr**, empresa júnior do curso de Ciência da Computação da USP-RP
 
 
 ---
@@ -40,20 +40,12 @@
 
 ## 🚀 Projetos
 
-### Projetos principais
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Simula Prazo](https://github.com/enzo-rocha-dev/simula-prazo) | Aplicação desenvolvida para simulação e análise de prazos, auxiliando no planejamento e organização de processos de pedidos de produtos. | Python, lógica de programação, manipulação de dados |
-
-
 ### Projetos acadêmicos
 
 | Projeto | Descrição | Tecnologias | Disciplina |
 |---|---|---|---|
 | [Agendamento de eventos com restrição](https://github.com/enzo-rocha-dev/agendamento-de-eventos-com-restricao) | Sistema para gerenciamento de agendamento de eventos considerando regras e restrições de disponibilidade. | Prolog, LISP, Ruby, Python (spaCy, Scikit-learn, PySwip) | Linguagens e Paradigmas de Programação |
 | [Project Library Design Patterns](https://github.com/enzo-rocha-dev/project-library-design_patterns) | Implementação de uma biblioteca utilizando padrões de projeto para melhorar organização, reutilização e manutenção do código. | Java, Design Patterns, Programação Orientada a Objetos | Programação Orientada a Objetos (POO) |
-
 
 ---
 
